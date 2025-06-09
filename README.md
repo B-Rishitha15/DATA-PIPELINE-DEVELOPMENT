@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-DESCRIPTION:
+#DESCRIPTION:
 
 ETL Data Pipeline Project with Python, Pandas & Scikit-learn
 
@@ -105,4 +105,8 @@ Extend transformation logic with feature engineering.
 This project offers a foundational understanding of building a modular and automated ETL pipeline using open-source Python libraries. The datapipeline.py script provides clear, maintainable, and reproducible 
 
 data processing logic suitable for both beginners and intermediate practitioners in data engineering and machine learning.
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/f420f52d-c463-4353-99e3-b1012cb50023)
 
