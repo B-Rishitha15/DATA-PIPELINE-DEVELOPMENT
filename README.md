@@ -102,5 +102,7 @@ Extend transformation logic with feature engineering.
 
 📌 Summary
 
-This project offers a foundational understanding of building a modular and automated ETL pipeline using open-source Python libraries. The datapipeline.py script provides clear, maintainable, and reproducible data processing logic suitable for both beginners and intermediate practitioners in data engineering and machine learning.
+This project offers a foundational understanding of building a modular and automated ETL pipeline using open-source Python libraries. The datapipeline.py script provides clear, maintainable, and reproducible 
+
+data processing logic suitable for both beginners and intermediate practitioners in data engineering and machine learning.
 
