@@ -108,5 +108,5 @@ data processing logic suitable for both beginners and intermediate practitioners
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/f420f52d-c463-4353-99e3-b1012cb50023)
+![Image](https://github.com/user-attachments/assets/74b25421-23f6-480c-b851-bfd98c2273ae)
 
